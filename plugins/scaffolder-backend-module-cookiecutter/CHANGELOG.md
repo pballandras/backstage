@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder-backend-module-cookiecutter
 
+## 0.2.14-next.3
+
+### Patch Changes
+
+- 935b66a646: Change step output template examples to use square bracket syntax.
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend@1.9.0-next.3
+
 ## 0.2.14-next.2
 
 ### Patch Changes

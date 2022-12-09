@@ -1,5 +1,11 @@
 # @backstage/create-app
 
+## 0.4.35-next.4
+
+### Patch Changes
+
+- 935b66a646: Change step output template examples to use square bracket syntax.
+
 ## 0.4.35-next.3
 
 ### Patch Changes

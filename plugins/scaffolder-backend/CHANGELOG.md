@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.9.0-next.3
+
+### Patch Changes
+
+- 935b66a646: Change step output template examples to use square bracket syntax.
+
 ## 1.9.0-next.2
 
 ### Minor Changes
